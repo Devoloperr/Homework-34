@@ -1,0 +1,8 @@
+li {
+    list-style: none;
+}
+
+.names{
+    background-color: rgb(170, 215, 241);
+    width: 390px;
+}
